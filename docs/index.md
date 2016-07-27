@@ -3,6 +3,8 @@ layout: page
 title: Documentation
 ---
 
+For a general overview of Fluo, take the [Fluo tour](/tour/).
+
 [Fluo] and [Fluo Recipes] have seperate documentation as they are different repositories with their own release cycle.
 
 ## Fluo
