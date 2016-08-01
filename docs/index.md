@@ -7,7 +7,9 @@ title: Documentation
 
 ## Apache Fluo
 
-Latest release is `{{ site.latest_fluo_release }}` made on {{ site.latest_fluo_release_date }}.
+The first release of Apache Fluo has not been made yet.
+
+Latest non-ASF release is `{{ site.latest_fluo_release }}` made on {{ site.latest_fluo_release_date }}.
 
 * Documentation - [Latest][fluo-docs-latest] \| [Archive][fluo-docs-archive]
 * API - [Latest][fluo-api-latest] \| [Archive][fluo-api-archive]
@@ -16,7 +18,9 @@ Latest release is `{{ site.latest_fluo_release }}` made on {{ site.latest_fluo_r
 
 ## Apache Fluo Recipes
 
-Latest release is `{{ site.latest_recipes_release }}` made on {{ site.latest_recipes_release_date }}
+The first release of Apache Fluo Recipes has not been made yet.
+
+Latest non-ASF release is `{{ site.latest_recipes_release }}` made on {{ site.latest_recipes_release_date }}.
 
 * Documentation - [Latest][recipes-docs-latest] \| [Archive][recipes-docs-archive]
 * API - [Latest][recipes-api-latest] \| [Archive][recipes-api-archive]
