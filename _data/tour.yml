@@ -14,7 +14,6 @@ docs:
  - scanning
  - scanning-code
  - multi-get
- - multi-get-code
  - loader-executer
  - observers
  - observer_example
